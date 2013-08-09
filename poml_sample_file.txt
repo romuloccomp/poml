@@ -1,0 +1,14 @@
+﻿# comments
+# you can comment your poml file :)
+tt_person
+ id_number:  1
+ full_name: John Jobs
+ birth_date: 01/04/1990
+person
+ ID Number: 2
+ Full Name: Peter Bruce
+ Date of birthday: 07/04/1980
+tt_person
+ id_number:  3
+ full_name: Woz Wanne
+ birth_date: 01/01/1975
