@@ -109,7 +109,7 @@ Progress program
     RUN pCreateAlias('Date of birthday'  , 'birth_date', 'field').
     
     
-    RUN pImportFile("z:\Dts\utils\poml\poml_sample_file.txt").
+    RUN pImportFile("poml_sample_file.txt").
     
     RUN pCreateTable (INPUT BUFFER tt_person:HANDLE).
     
