@@ -2,8 +2,8 @@ POML
 =========
 
 POML is not Markup Language.                         
-POML is (POG, ops!) Progress 4gl Markup Language !!!
-It's a simple Markup Language converter to Progress 4gl Table inspired by YAML
+POML is (POG, ops!) Progress 4gl (OpenEdge) Markup Language !!!
+It's a simple Markup Language converter to Progress 4gl (OpenEdge) Table inspired by YAML
 
   Arthor: Romulo (romuloccomp@gmail.com)
     Date: Ago/2013
